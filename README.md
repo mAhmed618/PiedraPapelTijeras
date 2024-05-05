@@ -41,19 +41,19 @@ Estos requisitos ayudarán a guiar el desarrollo y asegurarse de que el juego cu
 
 ### **Prototipo de baja fidelidad de la página de selección de opciones:**
 
-![IMG_6736.jpeg](Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6736.jpeg)
+![IMG_6736.jpeg](PPT/Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6736.jpeg)
 
 ### **Prototipo de baja fidelidad de la página de la página de resultados**
 
-![IMG_6733.jpeg](Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6733.jpeg)
+![IMG_6733.jpeg](PPT/Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6733.jpeg)
 
 ### **Prototipo de baja fidelidad posible implementación futura de la página de seleccion de modo de juego:**
 
-![IMG_6735.jpeg](Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6735.jpeg)
+![IMG_6735.jpeg](PPT/Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6735.jpeg)
 
 ### **Prototipo de baja fidelidad posible implementación de la pagina modo los jugadores:**
 
-![IMG_6734.jpeg](Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6734.jpeg)
+![IMG_6734.jpeg](PPT/Piedra%20Papel%20y%20Tijeras%201f9aaaa7f66542cabfaf3c71b2136c0f/IMG_6734.jpeg)
 
 una vez hecho solo podemos ir hacia el código el cual adjunto de manera grafica en cuadros de código para una posible expliación en el aula :
 
