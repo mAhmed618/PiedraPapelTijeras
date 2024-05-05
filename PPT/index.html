@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Piedra, Papel o Tijeras</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo" class="logo">
+        <h1>Piedra, Papel o Tijeras</h1>
+    </header>
+    <section>
+        <div id="jugador1">
+            <h2> Jugador Selecciona Tu Opción</h2>
+            <img src="piedra.png" alt="Piedra" class="opcion" onclick="jugar('piedra', 1)">
+            <img src="papel.png" alt="Papel" class="opcion" onclick="jugar('papel', 1)">
+            <img src="tijeras.png" alt="Tijeras" class="opcion" onclick="jugar('tijeras', 1)">
+        </div>
+        <div id="jugador2">
+            <h2>Jugador 2</h2>
+            <img src="piedra.png" alt="Piedra" class="opcion" onclick="jugar('piedra', 2)">
+            <img src="papel.png" alt="Papel" class="opcion" onclick="jugar('papel', 2)">
+            <img src="tijeras.png" alt="Tijeras" class="opcion" onclick="jugar('tijeras', 2)">
+        </div>
+        <div id="resultado">
+            <h1>Resultado:</h1>
+            <h2 id="textoResultado"></h2>
+            <img src="inicio.png" alt="Empieza el juego" id="imagenResultado">
+            <button onclick="revancha()">Revancha</button>
+        </div>
+    </section>
+    <script src="juego.js"></script>
+</body>
+</html>

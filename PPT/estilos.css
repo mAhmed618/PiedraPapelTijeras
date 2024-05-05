@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 200, 200);
+}
+header {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center; /* Alinea verticalmente los elementos en su centro */
+    justify-content: center; /* Alinea horizontalmente los elementos al centro del contenedor aprendido recientemente en clase */
+    border-radius: 15px;
+    padding: 10px 0px;
+    border: 5px solid rgb(97, 0, 0);
+    background-color: rgb(255, 146, 88) ;
+    color: rgb(97, 0, 0);
+}
+
+.logo {
+    height: 100px; 
+    border: 2px solid rgb(97, 0, 0);
+    margin-right: 30px; /* Espacio entre el logo y el texto */
+    border-radius: 15px;
+
+}
+section img {
+    width: 200px;
+    cursor: pointer;
+}
+
+#jugador1 {
+    margin: 20px;
+}
+#resultado {
+    display: none; /* Ocultar inicialmente el resultado */
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 15px;
+    padding: 10px 0px;
+    border: 5px solid rgb(97, 0, 0);
+    background-color: rgb(255, 146, 88) ;
+    color: rgb(97, 0, 0);
+}
+
+#resultado img {
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 5px solid rgb(97, 0, 0);
+    
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    border-color: rgb(97, 0, 0);
+    background-color: rgb(255, 207, 94);
+    color: rgb(97, 0, 0);
+}
+
+#jugador1 h2, #jugador1 img {
+    color: rgb(97, 0, 0);
+    border: 5px solid rgb(97, 0, 0);
+    border-radius: 15px;
+    padding: 20px 0px;
+    background-color: rgb(252, 114, 114) ;
+}
+#jugador1 img{
+    margin: 20px 100px;
+}
+#jugador2 h2, #jugador2 img {
+    display: none; /* Ocultar inicialmente el las opciones de jjugador 2 ya que es la maquina */
+    color: rgb(0, 0, 137);
+    border: 2px solid blue;
+}
